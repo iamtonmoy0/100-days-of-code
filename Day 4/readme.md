@@ -2,4 +2,4 @@
 
 ### Day 4 contains ~>
 
-* 
+*  Randomization 
