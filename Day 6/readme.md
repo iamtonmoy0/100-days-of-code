@@ -2,4 +2,8 @@
 
 ## day 6 contains~>
 
+* Function
+
+* While Loop
+
 * 
